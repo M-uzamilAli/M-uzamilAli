@@ -7,7 +7,7 @@
   <a href="mailto:muzamil.workdev@gmail.com">Email</a>
 </p>
 
----
+<br>
 
 ### Stack
 `Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `OpenAI API` `n8n` `C++`
@@ -15,15 +15,15 @@
 ### Currently
 Building toward AI engineering — transformers, RAG pipelines, LLM fine-tuning.
 
----
+<br>
 
 ### Projects
 
-**[Tulip ERP](https://github.com/MUZAMILALISULEMAN/WATER_PLANT_FULL_STACK_APP)**
-Full-stack RO water plant management system — FastAPI + React + PostgreSQL. Real client, production use.
+**[Tulip ERP](https://github.com/MUZAMILALISULEMAN/WATER_PLANT_FULL_STACK_APP)** — Featured
+Full-stack ERP for a real RO water plant client. FastAPI + React/Vite + PostgreSQL, with stored procedures and atomic transactions for the dispatch workflow. Cut delivery-log processing from ~20 minutes to under 5. Live in production.
 
 **[AI Smart-Distiller](https://github.com/MUZAMILALISULEMAN/AI-Smart-Distiller)**
-LLM pipeline that extracts structured JSON from documents and routes it to Google Sheets, Discord, and email via n8n.
+LLM pipeline that extracts structured JSON from unstructured documents and routes it to Google Sheets, Discord, and email via n8n.
 
 **[NotesFlow](https://github.com/MUZAMILALISULEMAN/NOTE-TAKING-FULL-STACK-APP)**
 Full-stack notes app with flexible auth (email, username, or phone). FastAPI + MySQL, deployed on Render.
@@ -31,6 +31,6 @@ Full-stack notes app with flexible auth (email, username, or phone). FastAPI + M
 **[Multiplayer Pong](https://github.com/MUZAMILALISULEMAN/Pong-OOP)**
 Real-time networked Pong in C++ with Raylib and ENet — 60 FPS, online/offline/vs-computer modes.
 
----
+<br>
 
 <p align="center"><sub>muzamil.workdev@gmail.com</sub></p>
