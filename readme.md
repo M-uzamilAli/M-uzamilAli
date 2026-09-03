@@ -9,11 +9,12 @@
 
 <br>
 
-### Stack
-`Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `OpenAI API` `n8n` `C++`
-
 ### Currently
-Building toward AI engineering — transformers, RAG pipelines, LLM fine-tuning.
+Software Engineering Intern @ **Agento** — building an AI OS product. Working on distributed and multi-tenant backend systems: caching, polling, and observability.
+
+### Stack
+`Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Redis` `OpenAI API` `n8n` `C++`
+`Multi-Tenant Systems` `Distributed Systems` `Observability` `Azure App Insights`
 
 <br>
 
