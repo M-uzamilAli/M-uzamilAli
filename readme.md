@@ -10,7 +10,7 @@
 <br>
 
 ### Currently
-Software Engineering Intern @ **Agento** (Agent Two team) — building an AI OS product. Working on distributed and multi-tenant backend systems: caching, polling, and observability.
+Software Engineering Intern @ **Agento** — building an AI OS product. Working on distributed and multi-tenant backend systems: caching, polling, and observability.
 
 ### Stack
 `Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Redis` `OpenAI API` `n8n` `C++`
