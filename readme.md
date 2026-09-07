@@ -13,7 +13,7 @@
 Software Engineering Intern @ **Agento** — building an AI OS product. Working on distributed and multi-tenant backend systems: caching, polling, and observability.
 
 ### Stack
-`Python` `FastAPI` `React` `PostgreSQL` `SQLAlchemy` `Redis` `OpenAI API` `n8n` `C++` `Azure` `Go Lang`
+`Python` `FastAPI` `React` `PostgreSQL` `Redis` `OpenAI API` `n8n` `C++` `Azure` `Go Lang` `Supabase` `Render` `MongoDB`
 
 <br>
 
