@@ -19,22 +19,22 @@ Engineering approach is grounded in architecture-first thinking: systems are des
 
 **Cloud (Azure)**: Container Apps, Application Insights, Blob Storage
 
-**Currently expanding expertise in**: identity and access architecture — OAuth 2.0, OIDC, and related authorization patterns
+**Currently expanding expertise in**: RAG architecture and MCP (Model Context Protocol) tooling, and identity/access architecture — OAuth 2.0, OIDC, and related authorization patterns
 
 <br>
 
 ### Selected Projects
 
-**[Tulip ERP](https://github.com/MUZAMILALISULEMAN/WATER_PLANT_FULL_STACK_APP)** — Production system
+**[Tulip ERP](https://github.com/M-uzamilAli/WATER_PLANT_FULL_STACK_APP)** — Production system
 Full-stack ERP built for a live RO water plant business. FastAPI, React/Vite, and PostgreSQL, with stored procedures and atomic transactions governing the dispatch workflow. Reduced delivery-log processing time from approximately 20 minutes to under 5. Currently in production use.
 
-**[AI Smart-Distiller](https://github.com/MUZAMILALISULEMAN/AI-Smart-Distiller)**
+**[AI Smart-Distiller](https://github.com/M-uzamilAli/AI-Smart-Distiller)**
 An LLM-based pipeline that extracts structured JSON from unstructured documents and routes the output to Google Sheets, Discord, and email via n8n.
 
-**[NotesFlow](https://github.com/MUZAMILALISULEMAN/NOTE-TAKING-FULL-STACK-APP)**
+**[NotesFlow](https://github.com/M-uzamilAli/NOTE-TAKING-FULL-STACK-APP)**
 A full-stack notes application supporting flexible authentication (email, username, or phone). Built with FastAPI and MySQL, deployed on Render.
 
-**[Multiplayer Pong](https://github.com/MUZAMILALISULEMAN/Pong-OOP)**
+**[Multiplayer Pong](https://github.com/M-uzamilAli/Pong-OOP)**
 A real-time networked Pong implementation in C++ using Raylib and ENet, supporting online, offline, and vs-computer modes at 60 FPS.
 
 <br>
