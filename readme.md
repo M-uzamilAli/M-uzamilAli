@@ -15,6 +15,15 @@ Software Engineering Intern @ **Agento** — building an AI OS product. Working 
 ### Stack
 `Python` `FastAPI` `React` `PostgreSQL` `Redis` `OpenAI API` `n8n` `C++` `Azure` `Go Lang` `Supabase` `Render` `MongoDB`
 
+**On Azure**: Container Apps, Application Insights (monitoring), Blob Storage.
+
+<br>
+
+### How I Build
+I try to think like an architect before I think like a coder — designing for **performance, availability, scalability, and consistency** rather than just getting something working. Writing code that scales cleanly, not just code that runs, is a habit I actively keep.
+
+Most recently, I've been digging into how systems handle access and identity — OAuth 2.0, OIDC, and the architecture patterns around them. No shipped project for this yet, but it's shaping how I'm approaching the next few things I build.
+
 <br>
 
 ### Projects
@@ -30,6 +39,8 @@ Full-stack notes app with flexible auth (email, username, or phone). FastAPI + M
 
 **[Multiplayer Pong](https://github.com/MUZAMILALISULEMAN/Pong-OOP)**
 Real-time networked Pong in C++ with Raylib and ENet — 60 FPS, online/offline/vs-computer modes.
+
+**More on the way** — a few new projects are in progress and will land here in the coming weeks.
 
 <br>
 
