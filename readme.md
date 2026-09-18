@@ -42,6 +42,8 @@ Engineering approach is architecture-first: systems are designed for performance
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  [<img src="https://shields.io" alt="Git" />](https://git-scm.com)]
 </p>
 
 **Cloud (Azure):** Container Apps · Application Insights · Blob Storage
