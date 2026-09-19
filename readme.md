@@ -2,10 +2,18 @@
 <p align="center">Software Engineer — AI Systems & Full-Stack Development</p>
 
 <p align="center">
-  <a href="https://muzamilali.online/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/muzamil-ali-b771aa356">LinkedIn</a> ·
-  <a href="mailto:muzamil.workdev@gmail.com">Email</a> ·
-  <a href="https://dev.to/m-uzamiali">Dev.to</a>
+  <a href="https://muzamilali.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muzamil-ali-b771aa356">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muzamil.workdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/m-uzamiali">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
 
 <br>
@@ -42,8 +50,9 @@ Engineering approach is architecture-first: systems are designed for performance
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  [<img src="https://shields.io" alt="Git" />](https://git-scm.com)]
+  <a href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
 </p>
 
 **Cloud (Azure):** Container Apps · Application Insights · Blob Storage
