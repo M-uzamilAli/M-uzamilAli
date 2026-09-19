@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://muzamilali.online/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muzamil-ali-b771aa356">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -77,4 +77,4 @@ A real-time networked Pong implementation in C++ using Raylib and ENet, running 
 
 <br>
 
-<p align="center"><sub>muzamil.workdev@gmail.com</sub></p>
+<p align="center"><sub>muzamil.workdev@gmail.com</sub></p
