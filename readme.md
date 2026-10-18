@@ -64,8 +64,7 @@ Engineering approach is architecture-first: systems are designed for performance
 
 **Cloud (Azure):** Container Apps · Application Insights · Blob Storage
 
-**Currently deepening expertise in:** RAG architecture, MCP (Model Context Protocol) tooling, and identity/access architecture
-
+**Currently deepening expertise in:** agent security and implementing agent guardrails.
 <br>
 
 ## Selected Projects
