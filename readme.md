@@ -26,7 +26,7 @@ Engineering approach is architecture-first: systems are designed for performance
 
 <br>
 
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M-uzamilAli)](https://git.io/streak-stats)
 
 ## Tech Stack
 
