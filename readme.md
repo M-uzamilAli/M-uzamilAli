@@ -80,11 +80,13 @@ Built solo for a reverse osmosis (RO) water plant to manage customers, pricing, 
 
 [Read the case study](https://www.muzamilali.online/tulip-erp.html)
 
+### [Sticky Todo](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App) — Desktop App
+An **always-on-top desktop widget** that brings personal notes and tasks from **ClickUp, GitHub, and Google Classroom** into one window. Built with **Electron, React, and Node.js**, with OAuth 2.0 integrations and login tokens encrypted locally. Shipped as an installable desktop app.
+
+[Download the latest release](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App/releases/latest)
+
 ### [AI Smart-Distiller](https://github.com/M-uzamilAli/AI-Smart-Distiller)
 Team project; **I built the backend and API integrations**. Extracts structured summaries, tasks, and deadlines from documents using the **OpenAI API**, then routes results to Google Sheets, Discord, or email through **n8n** and webhooks.
-
-### [NotesFlow](https://github.com/M-uzamilAli/NOTE-TAKING-FULL-STACK-APP)
-A full-stack notes application with flexible authentication (email, username, or phone). Built with FastAPI and MySQL, deployed on Render.
 
 ### [Multiplayer Pong](https://github.com/M-uzamilAli/Pong-OOP)
 Collaborative C++ project using **Raylib and ENet**, with online, offline, and computer-opponent modes. Integrated network synchronization for two-player gameplay and built an object-oriented engine with swappable themes and skins. Renders at 60 FPS.
