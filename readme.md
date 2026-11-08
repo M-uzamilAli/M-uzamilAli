@@ -89,7 +89,7 @@ An **always-on-top desktop widget** that brings personal notes and tasks from **
 Team project; **I built the backend and API integrations**. Extracts structured summaries, tasks, and deadlines from documents using the **OpenAI API**, then routes results to Google Sheets, Discord, or email through **n8n** and webhooks.
 
 ### [Multiplayer Pong](https://github.com/M-uzamilAli/Pong-OOP)
-Collaborative C++ project using **Raylib and ENet**, with online, offline, and computer-opponent modes.Integrated network synchronization for two-player gameplay and built an object-oriented engine with swappable themes and skins. Renders at 60 FPS.
+Collaborative C++ project using **Raylib and ENet**, with online, offline, and computer-opponent modes. Integrated network synchronization for two-player gameplay and built an object-oriented engine with swappable themes and skins. Renders at 60 FPS.
 
 <br>
 
