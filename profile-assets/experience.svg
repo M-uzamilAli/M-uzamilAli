@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 175" width="900" height="175" role="img">
-<title>Engineering work at Agento</title>
-<g font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">
-<rect x="1" y="1" width="898" height="168" rx="7" fill="#f6f8fa" stroke="#d0d7de"/><text x="23" y="29" font-size="14" fill="#505b67" font-weight="600" letter-spacing="2">AGENTO  /  WORKFLOW AUTOMATION</text><text x="23" y="64" font-size="16" fill="#1f2328" font-weight="700" >Guardrails</text><text x="171" y="64" font-size="16" fill="#505b67" font-weight="400" >Tool permissions, action rules, automatic stops and alerts.</text><text x="23" y="102" font-size="16" fill="#1f2328" font-weight="700" >Reliability</text><text x="171" y="102" font-size="16" fill="#505b67" font-weight="400" >Moved OAuth state to Redis for load-balanced replicas.</text><text x="23" y="140" font-size="16" fill="#1f2328" font-weight="700" >Performance</text><text x="171" y="140" font-size="16" fill="#505b67" font-weight="400" >Tenant caching, polling, TanStack Query and Azure monitoring.</text>
-</g>
-</svg>
