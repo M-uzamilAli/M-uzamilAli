@@ -68,6 +68,11 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
 **Cloud (Azure):** Container Apps · Application Insights · Blob Storage
 
 **Current focus:** agent security, tool permissions, and workflow guardrails.
