@@ -90,6 +90,11 @@ Capture screenshots from anywhere, let them **queue up in memory**, and send the
 
 [Download the latest release](https://github.com/M-uzamilAli/SnapRelay/releases/latest)
 
+### [Sticky Todo](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App) — Desktop App
+An **always-on-top desktop widget** that brings personal notes and tasks from **ClickUp, GitHub, and Google Classroom** into one window. Built with **Electron, React, and Node.js**, with OAuth 2.0 integrations and login tokens encrypted locally. Shipped as an installable desktop app.
+
+[Download the latest release](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App/releases/latest)
+
 ### [AI Smart-Distiller](https://github.com/M-uzamilAli/AI-Smart-Distiller)
 Team project; **I built the backend and API integrations**. Extracts structured summaries, tasks, and deadlines from documents using the **OpenAI API**, then routes results to Google Sheets, Discord, or email through **n8n** and webhooks.
 
