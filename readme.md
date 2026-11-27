@@ -85,16 +85,16 @@ Built solo for a reverse osmosis (RO) water plant to manage customers, pricing, 
 
 [Read the case study](https://www.muzamilali.online/tulip-erp.html)
 
-### [Sticky Todo](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App) — Desktop App
-An **always-on-top desktop widget** that brings personal notes and tasks from **ClickUp, GitHub, and Google Classroom** into one window. Built with **Electron, React, and Node.js**, with OAuth 2.0 integrations and login tokens encrypted locally. Shipped as an installable desktop app.
+### [SnapRelay](https://github.com/M-uzamilAli/SnapRelay) — Windows Utility
+Capture screenshots from anywhere, let them **queue up in memory**, and send them all into an AI chat with one shortcut, instead of snip, switch tab, paste, switch back for every one. Built in **Rust** on the Windows APIs: it finds the focused text box through the **UI Automation** accessibility layer and confirms each paste through a delayed-rendering **clipboard promise**, so it works in ChatGPT, Claude, and WhatsApp with no app-specific code. Cut a 9-screenshot task from **17 tab switches to 1**; about 15 MB of RAM when idle, under 1 MB on disk. Open source (MIT).
 
-[Download the latest release](https://github.com/M-uzamilAli/Sticky-Todo-Desktop-App/releases/latest)
+[Download the latest release](https://github.com/M-uzamilAli/SnapRelay/releases/latest)
 
 ### [AI Smart-Distiller](https://github.com/M-uzamilAli/AI-Smart-Distiller)
 Team project; **I built the backend and API integrations**. Extracts structured summaries, tasks, and deadlines from documents using the **OpenAI API**, then routes results to Google Sheets, Discord, or email through **n8n** and webhooks.
 
-### [Multiplayer Pong](https://github.com/M-uzamilAli/Pong-OOP)
-Collaborative C++ project using **Raylib and ENet**, with online, offline, and computer-opponent modes. Integrated network synchronization for two-player gameplay and built an object-oriented engine with swappable themes and skins. Renders at 60 FPS.
+### [Flappy Droniee](https://github.com/M-uzamilAli/Flappy-Droniee) — Motion-Controlled Game
+A browser game where **your phone becomes the controller**: the PC shows the course, and tilting the phone sets the drone's height. The phone pairs over local Wi-Fi by **QR code** with a local **HTTPS** server (Node.js) and streams its **motion sensors**; the game predicts the tilt about **40 ms ahead** to hide input delay. The course speeds up and unlocks new obstacle patterns as the score rises.
 
 <br>
 
