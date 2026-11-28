@@ -1,26 +1,21 @@
 <div align="center">
 
-<pre>
-████████████████████████████████████████
-█                                      █
-█            MUZAMIL  ALI              █
-█                                      █
-████████████████████████████████████████
-</pre>
+<img src="assets/header.svg" alt="Muzamil Ali — Software Engineer, AI Systems & Full-Stack Development" width="800" />
 
-**SOFTWARE ENGINEER — AI SYSTEMS & FULL-STACK DEVELOPMENT**
+<br><br>
 
-<a href="https://www.muzamilali.online/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muzamil-ali-b771aa356"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="mailto:me@muzamilali.online"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="https://dev.to/m-uzamiali"><img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.muzamilali.online/"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="190" /></a>
+<a href="https://www.linkedin.com/in/muzamil-ali-b771aa356"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="190" /></a>
+<a href="mailto:me@muzamilali.online"><img src="assets/btn-email.svg" alt="Email" width="190" /></a>
+<a href="https://dev.to/m-uzamiali"><img src="assets/btn-devto.svg" alt="Dev.to" width="190" /></a>
 
 </div>
 
 <br>
 
-# ▌PROFILE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="assets/sec-profile.svg" alt="01 Profile" width="800" />
+
+<br>
 
 I’m a **Software Engineering Intern at Agento** and a third-year Computer Science student at **FAST-NUCES Karachi**. I build AI workflows, backend services, and full-stack applications, including an ERP used daily by a local water plant.
 
@@ -42,23 +37,25 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 
 <br>
 
-# ▌TECH STACK
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-| LAYER | TOOLS |
-|:--|:--|
-| **LANGUAGES** | ![Python](https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/GO-000000?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/RUST-000000?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white) |
-| **FRONTEND** | ![React](https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **BACKEND** | ![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=flat-square&logo=fastapi&logoColor=white) |
-| **DATABASES** | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/ORACLE-000000?style=flat-square&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-000000?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/SUPABASE-000000?style=flat-square&logo=supabase&logoColor=white) |
-| **CLOUD / DEVOPS** | ![Docker](https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/AZURE-000000?style=flat-square&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/RENDER-000000?style=flat-square&logo=render&logoColor=white) ![Linux](https://img.shields.io/badge/LINUX-000000?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=white) |
-| **AZURE SERVICES** | `CONTAINER APPS` `APPLICATION INSIGHTS` `BLOB STORAGE` |
-| **AI / AUTOMATION** | ![OpenAI](https://img.shields.io/badge/OPENAI_API-000000?style=flat-square&logo=openai&logoColor=white) ![n8n](https://img.shields.io/badge/N8N-000000?style=flat-square&logo=n8n&logoColor=white) ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-000000?style=flat-square&logo=claude&logoColor=white) ![Codex](https://img.shields.io/badge/OPENAI_CODEX-000000?style=flat-square&logo=openai&logoColor=white) |
+<img src="assets/sec-stack.svg" alt="02 Tech Stack" width="800" />
 
 <br>
 
-# ▌SELECTED PROJECTS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+| LAYER | TOOLS |
+|:--|:--|
+| **LANGUAGES** | `PYTHON` `GO` `C++` `RUST` `JAVASCRIPT` |
+| **FRONTEND** | `REACT` `HTML5` `CSS3` `TAILWIND CSS` |
+| **BACKEND** | `FASTAPI` |
+| **DATABASES** | `POSTGRESQL` `MONGODB` `ORACLE` `REDIS` `SUPABASE` |
+| **CLOUD / DEVOPS** | `DOCKER` `AZURE` `RENDER` `LINUX` `GIT` |
+| **AZURE SERVICES** | `CONTAINER APPS` `APPLICATION INSIGHTS` `BLOB STORAGE` |
+| **AI / AUTOMATION** | `OPENAI API` `N8N` `CLAUDE CODE` `OPENAI CODEX` |
+
+<br>
+
+<img src="assets/sec-projects.svg" alt="03 Projects" width="800" />
+
+<br>
 
 | [01] [TULIP ERP](https://github.com/M-uzamilAli/WATER_PLANT_FULL_STACK_APP) — PRODUCTION SYSTEM |
 |:--|
@@ -91,8 +88,6 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 <br>
 
 <div align="center">
-
-████████████████████████████████████████
 
 **ME@MUZAMILALI.ONLINE**
 
