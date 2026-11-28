@@ -67,7 +67,7 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 
 > I built the backend and API integrations. Extracts summaries, tasks, and deadlines from documents with the **OpenAI API** and routes them to Google Sheets, Discord, or email through **n8n**.
 > 
-> **→ [VISIT THE PROJECT REPOISITORY](https://www.muzamilali.online/tulip-erp.html)**
+> **→ [VISIT THE PROJECT REPOISITORY](https://github.com/M-uzamilAli/AI-Smart-Distiller)**
 
 <br>
 
@@ -83,7 +83,7 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 
 > A browser game where your phone is the controller: tilt the phone to move the drone. Pairs by **QR code** over local Wi-Fi and predicts tilt about **40 ms ahead** to hide delay.
 >
-> **→ [VISIT THE PROJECT REPOISITORY](https://www.muzamilali.online/tulip-erp.html)**
+> **→ [VISIT THE PROJECT REPOISITORY](https://github.com/M-uzamilAli/Flappy-Droniee)**
 
 <br>
 
