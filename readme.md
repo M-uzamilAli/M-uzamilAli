@@ -38,7 +38,7 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 <br>
 
 <div align="center">
-<img src="assets/stack.svg" alt="Tech stack: Python, JavaScript, Rust, C; React; FastAPI, REST APIs, WebSockets, Webhooks; PostgreSQL, Redis, OAuth 2.0, JWT; Docker, Azure, GCP; OpenAI API, n8n" width="800" />
+<img src="assets/stack.svg" alt="Tech stack: Python, JavaScript, Rust, C, C++, Go; React, HTML5, CSS3, Tailwind CSS; FastAPI, REST APIs, WebSockets, Webhooks; OAuth 2.0, JWT, Pub/Sub; PostgreSQL, MongoDB, Oracle, Redis, Supabase; Azure, GCP, Oracle Cloud, Render; Azure Container Apps, Application Insights, Blob Storage; Docker, Linux, Git; OpenAI API, n8n, Claude Code, OpenAI Codex" width="800" />
 </div>
 
 <br>
