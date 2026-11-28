@@ -38,7 +38,7 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 <br>
 
 <div align="center">
-<img src="assets/stack.svg" alt="Tech stack: Python, JavaScript, Rust, C; React; FastAPI, PostgreSQL, Redis; Docker, Azure; OpenAI API, n8n" width="800" />
+<img src="assets/stack.svg" alt="Tech stack: Python, JavaScript, Rust, C; React; FastAPI, REST APIs, WebSockets, Webhooks; PostgreSQL, Redis, OAuth 2.0, JWT; Docker, Azure, GCP; OpenAI API, n8n" width="800" />
 </div>
 
 <br>
