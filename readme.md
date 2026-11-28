@@ -66,7 +66,8 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 <a href="https://github.com/M-uzamilAli/AI-Smart-Distiller"><img src="assets/proj-03.svg" alt="[03] AI Smart-Distiller — Team Project" width="800" /></a>
 
 > I built the backend and API integrations. Extracts summaries, tasks, and deadlines from documents with the **OpenAI API** and routes them to Google Sheets, Discord, or email through **n8n**.
-> **→ [VISIT THE PROJECT](https://www.muzamilali.online/tulip-erp.html)**
+> 
+> **→ [VISIT THE PROJECT REPOISITORY](https://www.muzamilali.online/tulip-erp.html)**
 
 <br>
 
@@ -82,7 +83,7 @@ I also teach C programming to beginners, focusing on problem-solving, pointers, 
 
 > A browser game where your phone is the controller: tilt the phone to move the drone. Pairs by **QR code** over local Wi-Fi and predicts tilt about **40 ms ahead** to hide delay.
 >
-> **→ [VISIT THE PROJECT](https://www.muzamilali.online/tulip-erp.html)**
+> **→ [VISIT THE PROJECT REPOISITORY](https://www.muzamilali.online/tulip-erp.html)**
 
 <br>
 
